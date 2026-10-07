@@ -1,0 +1,14 @@
+[
+  {
+    "model": "Logistic Regression",
+    "test_accuracy": 0.9722
+  },
+  {
+    "model": "SVM",
+    "test_accuracy": 0.975
+  },
+  {
+    "model": "MLP Neural Network",
+    "test_accuracy": 0.9694
+  }
+]
