@@ -1,6 +1,6 @@
 # Handwritten Character Recognition (Digits)
 
-**CodeAlpha Machine Learning Internship — Task Project**
+**Machine Learning Project**
 
 ## Problem
 Handwritten digit recognition is the classic entry point to image
@@ -64,7 +64,7 @@ Results are printed in the terminal and saved to `outputs/` (plots + `metrics.js
 
 ## Project Structure
 ```
-CodeAlpha_HandwrittenCharacterRecognition/
+HandwrittenCharacterRecognition/
 ├── handwritten_recognition.py
 ├── requirements.txt
 ├── README.md
@@ -76,4 +76,4 @@ CodeAlpha_HandwrittenCharacterRecognition/
 ```
 
 ---
-**Author: Muhammad Abdul Rafay — CodeAlpha ML Intern**
+**Author: Muhammad Abdul Rafay — ML Intern**

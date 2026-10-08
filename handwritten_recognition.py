@@ -1,6 +1,6 @@
 """
-Handwritten Character (Digit) Recognition — CodeAlpha Machine Learning Internship
-Author: Muhammad Abdul Rafay — CodeAlpha ML Intern
+Handwritten Character (Digit) Recognition — Machine Learning Project
+Author: Muhammad Abdul Rafay — ML Intern
 
 Recognises handwritten digits (0-9). Dataset: scikit-learn's Digits dataset
 (1,797 real handwritten digit images, 8x8 pixels, originally from the UCI /
